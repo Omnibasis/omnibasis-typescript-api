@@ -3,7 +3,7 @@
   "defaultVariables": "api=common",
   "documentGenerator": {
     "fromDocument": {
-        "url": "http://localhost:22742/explorer/$(api)/api.json",
+        "url": "https://api.omnibasis.com/explorer/$(api)/api.json",
         "output": null
     }
   },
